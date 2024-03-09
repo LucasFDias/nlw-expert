@@ -17,3 +17,9 @@ Este app foi uma aula prática do nlw expert que ocorreu no mês de fevereiro na
 
 - React Native
 - TailwindCss
+
+
+# Fotos do Sistema
+
+### Tela Inicial
+
