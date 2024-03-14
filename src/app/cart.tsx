@@ -12,7 +12,9 @@ import { LinkButton } from '@/components/link-button';
 import { useState } from 'react';
 import { useNavigation } from 'expo-router';
 
-const PHONE_NUMBER = "5524998596491"
+/* Substituir pelo número de telefone a ser utilizado */
+const PHONE_NUMBER = "5524999999999";
+
 export default function Cart() {
   const cartStore = useCartStore()
 
